@@ -1,1 +1,3 @@
-beer
+plugin1
+plugin2
+plugin3
